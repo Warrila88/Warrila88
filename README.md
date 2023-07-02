@@ -1,4 +1,4 @@
-- 👋 Hi, Warren
+- 👋 Hi, Warren.
 - 👀 I’m interested in gaming, anime, exercise and traveling.
 - 🌱 I’m currently learning Front End Web Development.
 - 💞️ I’m looking to collaborate on ideas and discussions about Web Design and Development.
